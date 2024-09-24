@@ -1,0 +1,91 @@
+ body{
+    font-family: "Plus Jakarta Sans", sans-serif;
+    
+    overflow-x: hidden !important;
+} 
+
+ .navbar{
+    height: 5rem;
+    background-color: white;
+ }
+ .fa-compass{
+    color: #fe424d;
+    font-size: 2rem;
+ }
+ .nav-link{
+    color: #222;
+ }
+ .Form{
+   height: 40rem;
+ }
+
+ .f-info-links a{
+    text-decoration: none;
+    color: #222;
+ }
+ .f-info-links a:hover{
+    text-decoration: underline;
+ }
+ .f-info{
+    text-align: center;
+    height: 8rem;
+    background-color: #ebebeb;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: space-evenly;
+ }
+ .f-info-links, .f-info-socials, .f-info-brand{
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+ }
+ 
+ 
+ .f-info-socials i{
+    font-size: 1.2rem;
+    margin-right: 1rem;
+ }
+
+ .common-card{
+   margin-left: 2rem;
+   margin-bottom: 2rem;
+   border: none;
+}
+.card-img-overlay{
+   opacity: 0;
+}
+.card-img-overlay:hover{
+   opacity: 0.2;
+   background-color: white;
+}
+ .card-img-top{
+   width: 100%;
+   border-radius: 1rem;
+   object-fit: cover; 
+ }
+ .card-body{
+   padding: 0;
+ }
+
+ .listing-link{
+   text-decoration: none;
+ }
+
+ .form-label{
+   font-size: 1.1rem;
+ }
+
+ .addbtn{
+   border: none;
+   background-color: #fe424d;
+ }
+
+ .listing-card{
+   margin: 1.5rem;
+   margin-left: 25rem;
+ }
+ 
+ 
+ 
